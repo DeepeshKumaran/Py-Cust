@@ -1,0 +1,7 @@
+# Ignore Windows and temporary files
+AppData/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+Thumbs.db
